@@ -24,3 +24,22 @@
 
 ##### 위의 그림과 같이 6개의 DB Table을 사용하였다.
 
+
+
+## Chavis HTTP Server 소개
+
+##### Chavis HTTP서버는 Spring framework를 사용하여 구현했으며, 사용자 및 정비사용 앱에서 로그인 기능 및 예약 서비스를 관리하고 정보를 표시할 수 있도록 앱으로부터의 정보를 요청 시 컨트롤러를 통해 정보를 보내준다.
+
+##### DB는 oracle11g을 사용했으며, DB접근은 mybatis를 사용했습니다.
+
+
+
+
+
+## **정비사용 웹 소개**
+
+![img](https://postfiles.pstatic.net/MjAxOTEwMThfMTU4/MDAxNTcxMzc4MjYyMDQ0.vKtTJxCp-XYqGaegWvywnbv3_QTgSJc0Yiv53NP9x24g.5YE2SYfIjH0XSCBw5BD0g5U0MjBdXy-jletUkOv-B28g.PNG.ehdwnd02/image.png?type=w773)
+
+![img](https://postfiles.pstatic.net/MjAxOTEwMThfNyAg/MDAxNTcxMzc4MjkzOTM1.B5spbdRw10xTBDy-ktitjBdmoeObsJjdoh8w3ChAF2Yg.LTHf4VH4NIU7MdjUybdFIBt3OCUQKPlwl11lKcpbtZAg.PNG.ehdwnd02/image.png?type=w773)
+
+##### 정비사용 웹으로 정비소에 할당된 아이디와 비밀번호로 로그인하여 예약 현황을 확인할 수 있다.
